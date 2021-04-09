@@ -2,7 +2,6 @@ package concurrencyfun;
 
 import org.junit.jupiter.api.Test;
 
-import java.sql.Time;
 import java.util.concurrent.TimeUnit;
 
 class DaemonThreadTest {
